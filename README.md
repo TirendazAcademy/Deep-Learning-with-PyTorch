@@ -8,4 +8,4 @@
 
 ### You can find the videos of these lessons in our [youtube](https://www.youtube.com/c/TirendazAkademi) channel 📺
 
-### [Derin öğrenme için PyTorch'a giriş](https://www.youtube.com/watch?v=z0qJRc_WgEw)
+### - [Derin öğrenme için PyTorch'a giriş](https://www.youtube.com/watch?v=z0qJRc_WgEw)
