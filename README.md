@@ -1,4 +1,4 @@
-# Welcome to Deep Learning with PyTorch Turtorial 😎
+# Welcome to Deep Learning with PyTorch Tutorial 😎
 
 ![](https://cdn.pixabay.com/photo/2018/07/25/08/58/business-3560916_1280.jpg)
 
