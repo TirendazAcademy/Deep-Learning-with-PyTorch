@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Pytorch-470D21?&style=plastic&logo=pytorch&logoColor=white)]()
-[![](https://img.shields.io/badge/DataScience-FFC300?&style=plastic&logo=datascience&logoColor=white)]()
+[![](https://img.shields.io/badge/Comet-darkgreen?&style=plastic&logo=comet&logoColor=white)]()
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
 Hi guys. In this repo, this repo contains tutorials about PyTorch. Let's take a look at some PyTorch features.
