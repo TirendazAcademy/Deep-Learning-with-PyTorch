@@ -5,7 +5,13 @@
 [![](https://img.shields.io/badge/Comet-darkgreen?&style=plastic&logo=comet&logoColor=white)]()
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
-Hi guys. In this repo, this repo contains tutorials about PyTorch. Let's take a look at some PyTorch features.
+Welcome to the Deep Learning with Pytorch repository! This repository is dedicated to providing a comprehensive and easy-to-follow introduction to deep learning using the Pytorch library. Pytorch is a powerful and flexible open-source deep learning framework that allows for easy and intuitive development of complex models.
+
+Here you will find a collection of Jupyter notebooks that cover various aspects of deep learning, including image classification, object detection, natural language processing and more. Each notebook is designed to be self-contained and includes detailed explanations of the concepts, as well as the code to implement the models.
+
+Whether you are a beginner looking to get started with deep learning, or a experienced practitioner looking to expand your knowledge, this repository is for you. We hope that this material will help you to understand the concepts of deep learning, and how to implement them in practice using Pytorch. Thank you for visiting and we hope you find this repository useful. 
+
+Let's take a look at some PyTorch features.
 
 ## What is PyTorch?
 
