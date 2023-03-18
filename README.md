@@ -43,11 +43,15 @@ Additionally, to check if your GPU driver and CUDA is enabled and accessible by 
 torch.cuda.is_available()
 ```
 
-🚀 [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
 - [Introduction to Deep Learning with PyTorch](https://www.youtube.com/watch?v=eB8ogfU1e_8)
 
-🔥 [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi) (Turkish)
+[![](https://img.shields.io/badge/Medium-English-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+
+- [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016)
+
+[![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi) (Turkish)
 
 - [Derin öğrenme için PyTorch'a giriş](https://www.youtube.com/watch?v=z0qJRc_WgEw)
 
