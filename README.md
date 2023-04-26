@@ -1,8 +1,8 @@
 ![](https://github.com/TirendazAcademy/Deep-Learning-with-PyTorch/blob/main/Images/Pytorch-Banner.png)
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Pytorch-470D21?&style=plastic&logo=pytorch&logoColor=white)]()
-[![](https://img.shields.io/badge/Lightning-darkred?&style=plastic&logo=lightning&logoColor=white)]()
+[![](https://img.shields.io/badge/Pytorch-darkorange?&style=plastic&logo=pytorch&logoColor=white)]()
+[![](https://img.shields.io/badge/Lightning-blue?&style=plastic&logo=lightning&logoColor=white)]()
 [![](https://img.shields.io/badge/Comet-darkgreen?&style=plastic&logo=comet&logoColor=white)]()
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
