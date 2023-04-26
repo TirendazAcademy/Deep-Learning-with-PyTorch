@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Pytorch-470D21?&style=plastic&logo=pytorch&logoColor=white)]()
+[![](https://img.shields.io/badge/Lightning-darkred?&style=plastic&logo=lightning&logoColor=white)]()
 [![](https://img.shields.io/badge/Comet-darkgreen?&style=plastic&logo=comet&logoColor=white)]()
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
@@ -50,6 +51,7 @@ torch.cuda.is_available()
 [![](https://img.shields.io/badge/Medium-darkgreen?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 - [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016)
+- [End-to-End Deep Learning Project with PyTorch & Comet ML](https://medium.com/cometheartbeat/end-to-end-deep-learning-project-with-pytorch-comet-ml-974d22c1cc65)
 
 [![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
 
