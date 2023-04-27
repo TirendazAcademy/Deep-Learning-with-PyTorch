@@ -12,26 +12,6 @@ Here you will find a collection of Jupyter notebooks that cover various aspects 
 
 Whether you are a beginner looking to get started with deep learning, or a experienced practitioner looking to expand your knowledge, this repository is for you. We hope that this material will help you to understand the concepts of deep learning, and how to implement them in practice using Pytorch. Thank you for visiting and we hope you find this repository useful. 
 
-Let's take a look at some PyTorch features.
-
-## What is PyTorch?
-
-PyTorch is an open source machine learning and deep learning framework.
-
-## What can PyTorch be used for?
-
-PyTorch helps you manipulate and manipulate data and write machine learning algorithms using Python code.
-
-## Who uses PyTorch?
-
-Many of the worlds largest technology companies such as Meta, Tesla and Microsoft as well as AI research companies such as OpenAI use PyTorch to power research and bring machine learning to their products.
-
-## Why use PyTorch?
-
-PyTorch is the most used deep learning framework on Papers With Code, a website for tracking machine learning research papers and the code repositories attached with them.
-
-## 
-
 To install PyTorch, you can use the instruction [here](https://pytorch.org/). To import PyTorch, you can run as following codes.
 
 ```
@@ -57,7 +37,7 @@ torch.cuda.is_available()
 
 - [Derin öğrenme için PyTorch'a Giriş](https://www.youtube.com/watch?v=z0qJRc_WgEw)
 
-📌 If you enjoy this repo, don't forget to give me a ✨. Thanks for reading 😀
+📌 If you enjoy this repo, don't forget to give me a ✨ Thanks for reading 😀
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
 
